@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../practises/textanimation"
+		},
+		{
+			"path": "../practises"
+		},
+		{
+			"path": "../web development projects/sasi portfoilio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project s&co"
+	}
+}
